@@ -26,7 +26,7 @@ function Sports() {
           
         </div> 
         }
-                <img className="img_box" src="https://images.unsplash.com/photo-1566579090262-51cde5ebe92e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Image loading.."/>
+                <img className="img_box" src="sports.svg" alt="Image loading.."/>
 
 
     </div>

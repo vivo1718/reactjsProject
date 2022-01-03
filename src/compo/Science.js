@@ -22,17 +22,9 @@ function Science() {
       <div className='container'>
         <h4 style={{fontWeight:'bold',color:'#fff'}}>Science</h4>
         <h4 className='text-gray-500 text-bold' >All Your news are available on the Cards.To View Entire News of the Topic Click On Read More</h4>
-        { <div className="px-6 pt-4 pb-2">
-          <Row className='row'><span className="inline-block bg-gray-200 rounded-full px-3 py-2 text-sm font-bold text-gray-700 mr-2 mb-3">#Sports</span>
-          <span className="inline-block bg-gray-200 rounded-full px-3 py-2 text-sm font-bold text-gray-700 mr-2 mb-3">Science</span>
-          <span className="inline-block bg-gray-200 rounded-full px-3 py-2 text-sm font-bold text-gray-700 mr-2 mb-3" >Health</span>
-          <span className="inline-block bg-gray-200 rounded-full px-3 py-2 text-sm font-bold text-gray-700 mr-2 mb-3" >Entertainment</span>
-          <span className="inline-block bg-gray-200 rounded-full px-3 py-2 text-sm font-bold text-gray-700 mr-2 mb-3" >General</span>
+        <img className="img_box" src="science.svg" alt="Image loading.."/> 
+        
 
-
-          </Row>
-        </div> 
-        }
 
     </div>
       {
